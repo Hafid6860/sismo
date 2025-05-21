@@ -12,3 +12,4 @@ Cara Pertama
 Cara Kedua
 1. Clone repo
 2. Import database
+3. ganti config.php sesuai dengan nama databse, username dan password kalian.
